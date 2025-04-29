@@ -1,0 +1,234 @@
+Country,Year,Stunting_Indicator,Stunting_Value,Facility_Indicator,Facility_Value,Population_Total,GDP_per_Capita,Life_Expectancy,Birth_Rate
+Brazil,2006,Proportion of health care facilities with limited sanitation services,74.09841052631462,"Height-for-age <-2 SD (stunting), Modeled Estimates",7.1,186653106.0,7622.04007171401,72.037,16.852
+Brazil,2007,Proportion of health care facilities with limited sanitation services,72.46646249999912,"Height-for-age <-2 SD (stunting), Modeled Estimates",7.0,188552320.0,8003.25413136092,72.365,16.372
+Brazil,2008,Proportion of health care facilities with limited sanitation services,70.83451447368361,"Height-for-age <-2 SD (stunting), Modeled Estimates",6.8,190367302.0,8330.76459882987,72.715,15.943
+Brazil,2009,Proportion of health care facilities with limited sanitation services,69.20256644736764,"Height-for-age <-2 SD (stunting), Modeled Estimates",6.6,192079951.0,8246.09707036353,72.948,15.715
+Brazil,2010,Proportion of health care facilities with limited sanitation services,67.57061842105213,"Height-for-age <-2 SD (stunting), Modeled Estimates",6.5,193701929.0,8792.63436164336,73.182,15.492
+Brazil,2011,Proportion of health care facilities with limited sanitation services,65.93867039473571,"Height-for-age <-2 SD (stunting), Modeled Estimates",6.4,195284734.0,9067.99316393419,73.343,15.309
+Brazil,2012,Proportion of health care facilities with limited sanitation services,64.3067223684202,"Height-for-age <-2 SD (stunting), Modeled Estimates",6.3,196876111.0,9167.49923975685,73.552,14.939
+Brazil,2013,Proportion of health care facilities with limited sanitation services,62.67477434210423,"Height-for-age <-2 SD (stunting), Modeled Estimates",6.3,198478299.0,9366.73932481225,73.918,14.69
+Brazil,2014,Proportion of health care facilities with limited sanitation services,61.04282631578872,"Height-for-age <-2 SD (stunting), Modeled Estimates",6.4,200085127.0,9338.34278324839,74.306,14.753
+Brazil,2015,Proportion of health care facilities with limited sanitation services,59.4108782894732,"Height-for-age <-2 SD (stunting), Modeled Estimates",6.5,201675532.0,8936.19661756825,74.332,14.727
+Brazil,2016,Proportion of health care facilities with limited sanitation services,57.77893026315678,"Height-for-age <-2 SD (stunting), Modeled Estimates",6.6,203218114.0,8577.8437669383,74.442,14.051
+Brazil,2017,Proportion of health care facilities with limited sanitation services,54.78625608552557,"Height-for-age <-2 SD (stunting), Modeled Estimates",6.8,204703445.0,8628.25308951214,74.827,14.159
+Brazil,2018,Proportion of health care facilities with limited sanitation services,54.78625608552557,"Height-for-age <-2 SD (stunting), Modeled Estimates",6.9,206107261.0,8722.33630361577,75.109,14.133
+Brazil,2019,Proportion of health care facilities with limited sanitation services,54.78625608552557,"Height-for-age <-2 SD (stunting), Modeled Estimates",7.1,207455459.0,8771.44051336065,75.338,13.633
+Brazil,2020,Proportion of health care facilities with limited sanitation services,54.78625608552557,"Height-for-age <-2 SD (stunting), Modeled Estimates",7.2,208660842.0,8435.01143297182,74.009,13.078
+Brazil,2021,Proportion of health care facilities with limited sanitation services,54.78625608552557,"Height-for-age <-2 SD (stunting), Modeled Estimates",7.2,209550294.0,8799.22945854927,72.75,12.883
+Kenya,2012,Proportion of health care facilities with limited sanitation services,90.84994356435664,"Height-for-age <-2 SD (stunting), Modeled Estimates",28.6,43888303.0,1396.30178709756,61.115,33.174
+Kenya,2013,Proportion of health care facilities with limited sanitation services,90.25015214521451,"Height-for-age <-2 SD (stunting), Modeled Estimates",27.2,44986791.0,1413.94142522583,61.389,32.127
+Kenya,2014,Proportion of health care facilities with limited sanitation services,89.65036072607268,"Height-for-age <-2 SD (stunting), Modeled Estimates",26.0,46051440.0,1450.59338202277,61.816,31.298
+Kenya,2015,Proportion of health care facilities with limited sanitation services,89.05056930693081,"Height-for-age <-2 SD (stunting), Modeled Estimates",24.9,47088526.0,1489.11959777284,61.892,30.957
+Kenya,2016,Proportion of health care facilities with limited sanitation services,88.45077788778895,"Height-for-age <-2 SD (stunting), Modeled Estimates",23.9,48139687.0,1517.97796057742,62.163,30.401
+Kenya,2017,Proportion of health care facilities with limited sanitation services,86.30528646864741,"Height-for-age <-2 SD (stunting), Modeled Estimates",23.0,49197766.0,1542.33773973372,62.481,29.755
+Kenya,2018,Proportion of health care facilities with limited sanitation services,83.49644504950493,"Height-for-age <-2 SD (stunting), Modeled Estimates",22.0,50207107.0,1596.69045914945,62.676,29.18
+Kenya,2019,Proportion of health care facilities with limited sanitation services,80.6876036303636,"Height-for-age <-2 SD (stunting), Modeled Estimates",21.1,51202827.0,1645.70961777862,62.943,28.46
+Kenya,2020,Proportion of health care facilities with limited sanitation services,77.87876221122133,"Height-for-age <-2 SD (stunting), Modeled Estimates",20.1,52217334.0,1609.33414078281,62.675,27.998
+Kenya,2021,Proportion of health care facilities with limited sanitation services,75.66971221122094,"Height-for-age <-2 SD (stunting), Modeled Estimates",19.2,53219166.0,1698.89578271444,61.427,27.685
+Kenya,2022,Proportion of health care facilities with limited sanitation services,73.46066221122146,"Height-for-age <-2 SD (stunting), Modeled Estimates",18.4,54252461.0,1747.53198804428,62.055,27.54
+Kenya,2023,Proportion of health care facilities with limited sanitation services,71.25161221122107,,,55339003.0,1808.40479129677,,
+Nigeria,2011,Proportion of health care facilities with limited sanitation services,39.12822059659175,"Height-for-age <-2 SD (stunting), Modeled Estimates",38.2,171379598.0,2370.97657091803,51.357,41.798
+Nigeria,2012,Proportion of health care facilities with limited sanitation services,42.92584872159205,"Height-for-age <-2 SD (stunting), Modeled Estimates",37.7,176200625.0,2403.65387896923,51.497,41.241
+Nigeria,2013,Proportion of health care facilities with limited sanitation services,46.72347684659235,"Height-for-age <-2 SD (stunting), Modeled Estimates",37.3,181049443.0,2495.34106573748,51.707,40.603
+Nigeria,2014,Proportion of health care facilities with limited sanitation services,50.52110497159174,"Height-for-age <-2 SD (stunting), Modeled Estimates",36.9,185896915.0,2583.6155695814,51.791,40.069
+Nigeria,2015,Proportion of health care facilities with limited sanitation services,54.31873309659204,"Height-for-age <-2 SD (stunting), Modeled Estimates",36.7,190671878.0,2585.73360671797,51.841,39.51
+Nigeria,2016,Proportion of health care facilities with limited sanitation services,53.96810667613772,"Height-for-age <-2 SD (stunting), Modeled Estimates",36.4,195443700.0,2481.81490350326,52.043,39.128
+Nigeria,2017,Proportion of health care facilities with limited sanitation services,53.61748025568249,"Height-for-age <-2 SD (stunting), Modeled Estimates",36.2,200254579.0,2441.71236404487,52.305,38.689
+Nigeria,2018,Proportion of health care facilities with limited sanitation services,53.26685383522817,"Height-for-age <-2 SD (stunting), Modeled Estimates",35.8,204938755.0,2431.77857832567,52.554,38.248
+Nigeria,2019,Proportion of health care facilities with limited sanitation services,52.91622741477386,"Height-for-age <-2 SD (stunting), Modeled Estimates",35.4,209485641.0,2431.53528472982,52.91,37.849
+Nigeria,2020,Proportion of health care facilities with limited sanitation services,52.56560099431863,"Height-for-age <-2 SD (stunting), Modeled Estimates",35.0,213996181.0,2337.57587388074,52.887,37.467
+Nigeria,2021,Proportion of health care facilities with limited sanitation services,52.21497457386431,"Height-for-age <-2 SD (stunting), Modeled Estimates",34.5,218529286.0,2372.57314465346,52.676,37.117
+Nigeria,2022,Proportion of health care facilities with limited sanitation services,53.52384739583385,"Height-for-age <-2 SD (stunting), Modeled Estimates",34.2,223150896.0,2398.98622787065,53.633,36.611
+Nigeria,2023,Proportion of health care facilities with limited sanitation services,57.45880052083317,,,227882945.0,2416.36198205178,,
+Pakistan,2017,Proportion of health care facilities with limited sanitation services,70.199,"Height-for-age <-2 SD (stunting), Modeled Estimates",39.4,223273967.0,1495.26187528032,66.297,28.963
+Pakistan,2018,Proportion of health care facilities with limited sanitation services,70.199,"Height-for-age <-2 SD (stunting), Modeled Estimates",38.3,226928892.0,1561.68169819559,66.482,28.594
+Pakistan,2019,Proportion of health care facilities with limited sanitation services,70.199,"Height-for-age <-2 SD (stunting), Modeled Estimates",37.1,230800899.0,1573.8330826937,66.756,28.276
+Pakistan,2020,Proportion of health care facilities with limited sanitation services,70.199,"Height-for-age <-2 SD (stunting), Modeled Estimates",36.0,235001746.0,1526.00597486307,66.269,27.967
+Pakistan,2021,Proportion of health care facilities with limited sanitation services,70.199,"Height-for-age <-2 SD (stunting), Modeled Estimates",34.9,239477801.0,1595.02792175422,66.098,27.519
+Pakistan,2022,Proportion of health care facilities with limited sanitation services,70.199,"Height-for-age <-2 SD (stunting), Modeled Estimates",34.0,243700667.0,1642.28066974826,66.431,27.233
+Pakistan,2023,Proportion of health care facilities with limited sanitation services,70.199,,,247504495.0,1616.39906887866,,
+Brazil,2000,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",9.8,174018282.0,6817.78424119813,69.737,19.841
+Brazil,2001,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",9.1,176301203.0,6823.03397034029,70.195,19.271
+Brazil,2002,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",8.5,178503484.0,6944.62337530502,70.41,18.574
+Brazil,2003,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",8.0,180622688.0,6941.44045779811,70.72,17.85
+Brazil,2004,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",7.6,182675143.0,7258.78185202231,71.131,17.632
+Brazil,2005,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",7.3,184688101.0,7409.56913269792,71.753,17.335
+Brazil,2022,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",7.2,210306415.0,9032.08481611491,73.425,12.649
+China,2000,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",19.9,1262645000.0,2193.89686642215,71.881,14.03
+China,2001,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",18.4,1271850000.0,2359.57238513523,72.606,13.38
+China,2002,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",17.0,1280400000.0,2557.89161202627,72.985,12.86
+China,2003,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",15.6,1288400000.0,2797.17665912283,73.371,12.41
+China,2004,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",14.3,1296075000.0,3061.83317262874,73.748,12.29
+China,2005,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",13.2,1303720000.0,3390.71615945044,74.111,12.4
+China,2006,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",12.2,1311020000.0,3800.76579592591,74.504,12.09
+China,2007,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",11.3,1317885000.0,4319.03139751247,74.762,12.1
+China,2008,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",10.5,1324655000.0,4711.64344921263,74.872,12.14
+China,2009,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",9.7,1331260000.0,5128.90412774381,75.343,11.95
+China,2010,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",8.9,1337705000.0,5647.06872713954,75.599,11.9
+China,2011,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",8.1,1345035000.0,6152.69687271855,75.903,13.27
+China,2012,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",7.6,1354190000.0,6591.66249405644,76.192,14.57
+China,2013,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",7.1,1363240000.0,7056.42309152349,76.452,13.03
+China,2014,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",6.7,1371860000.0,7532.78530130172,76.717,13.83
+China,2015,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",6.5,1379860000.0,8016.44559489998,76.977,11.99
+China,2016,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",6.2,1387790000.0,8516.52874235572,77.218,13.57
+China,2017,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",5.9,1396215000.0,9053.22872461936,77.248,12.64
+China,2018,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",5.7,1402760000.0,9619.20947510677,77.744,10.86
+China,2019,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",5.4,1407745000.0,10155.5108830542,77.968,10.41
+China,2020,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",5.1,1411100000.0,10358.1699971792,78.077,8.52
+China,2021,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",4.9,1412360000.0,11223.2553476968,78.211,7.52
+China,2022,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",4.6,1412175000.0,11555.9302384568,78.587,6.77
+India,2000,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",50.0,1057922733.0,756.704109527449,62.669,27.001
+India,2001,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",49.5,1077898575.0,778.507377528365,63.091,26.728
+India,2002,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",49.1,1097600380.0,793.615912906381,63.616,26.082
+India,2003,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",48.7,1116803006.0,841.278894571674,64.094,25.375
+India,2004,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",48.3,1135991513.0,892.596614581612,64.524,24.728
+India,2005,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",47.9,1154676322.0,947.732565646672,64.996,23.94
+India,2006,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",47.4,1172878890.0,1008.23275343783,65.412,23.22
+India,2007,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",46.8,1190676021.0,1069.24696813025,65.788,22.713
+India,2008,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",46.1,1207930964.0,1086.50605251513,66.149,22.276
+India,2009,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",45.2,1225524753.0,1155.10163274172,66.513,21.934
+India,2010,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",44.0,1243481564.0,1235.15939133951,66.909,21.438
+India,2011,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",42.8,1261224954.0,1281.61054354933,67.359,20.945
+India,2012,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",41.6,1278674502.0,1333.09626557668,67.887,20.421
+India,2013,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",40.4,1295829511.0,1399.4537980287,68.46,19.935
+India,2014,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",39.3,1312277191.0,1484.31640682913,69.074,19.049
+India,2015,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",38.3,1328024498.0,1583.99815907985,69.636,18.765
+India,2016,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",37.3,1343944296.0,1694.46534973825,70.117,18.514
+India,2017,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",36.3,1359657400.0,1788.69770318446,70.467,17.911
+India,2018,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",35.4,1374659064.0,1883.35772705062,70.71,17.651
+India,2019,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",34.4,1389030312.0,1936.03067741067,70.91,17.049
+India,2020,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",33.5,1402617695.0,1806.50110583878,70.15,16.572
+India,2021,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",32.5,1414203896.0,1965.30943437506,67.24,16.419
+India,2022,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",31.7,1425423212.0,2086.07688562779,67.744,16.267
+Indonesia,2000,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",40.4,216077790.0,1828.10265975051,66.433,21.86
+Indonesia,2001,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",39.8,219097902.0,1868.59172314131,66.758,21.548
+Indonesia,2002,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",39.2,222088495.0,1926.37435875198,67.134,21.174
+Indonesia,2003,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",38.8,225048008.0,1991.91820513763,67.413,20.874
+Indonesia,2004,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",38.4,227926649.0,2065.70617478401,65.75,20.701
+Indonesia,2005,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",38.1,230871650.0,2155.44780167098,67.649,20.735
+Indonesia,2006,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",37.9,233951652.0,2244.08022270233,67.914,20.784
+Indonesia,2007,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",37.5,237062337.0,2355.15285661899,68.189,20.954
+Indonesia,2008,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",37.1,240157903.0,2464.60193427292,68.226,20.702
+Indonesia,2009,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",36.6,243220028.0,2546.21969717085,68.494,20.383
+Indonesia,2010,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",35.9,246305322.0,2670.81290999304,68.679,20.158
+Indonesia,2011,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",35.2,249470032.0,2799.62468800564,68.823,20.345
+Indonesia,2012,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",34.6,252698525.0,2930.51844543024,68.973,20.093
+Indonesia,2013,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",34.1,255852467.0,3055.2424601765,69.264,19.417
+Indonesia,2014,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",33.6,258877399.0,3170.72103023033,69.533,18.954
+Indonesia,2015,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",33.3,261799249.0,3288.22269737572,69.699,18.448
+Indonesia,2016,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",33.0,264627418.0,3416.81005183476,69.798,18.017
+Indonesia,2017,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",32.7,267346658.0,3553.51999275326,69.936,17.519
+Indonesia,2018,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",32.5,269951846.0,3701.32155475457,70.338,17.179
+Indonesia,2019,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",32.2,272489381.0,3850.90321753072,70.518,16.91
+Indonesia,2020,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",31.9,274814866.0,3739.44906576846,68.808,16.649
+Indonesia,2021,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",31.4,276758053.0,3850.68877267995,67.57,16.425
+Indonesia,2022,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",31.0,278830529.0,4024.92074265014,68.25,16.196
+Kenya,2000,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",38.5,30642890.0,1195.41296851656,54.411,39.934
+Kenya,2001,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",38.5,31619170.0,1202.29348759987,54.508,39.983
+Kenya,2002,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",38.4,32629808.0,1171.4262517349,54.99,39.594
+Kenya,2003,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",38.1,33652223.0,1169.14433674051,55.601,39.045
+Kenya,2004,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",37.7,34713455.0,1191.25443604556,56.361,38.732
+Kenya,2005,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",37.3,35796484.0,1223.44738472019,57.344,38.502
+Kenya,2006,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",36.7,36904008.0,1263.54164666211,58.222,38.29
+Kenya,2007,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",35.8,38036349.0,1309.91092948216,58.865,38.098
+Kenya,2008,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",34.6,39206351.0,1273.77226103073,59.614,37.546
+Kenya,2009,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",33.3,40408891.0,1276.73503486074,60.365,36.563
+Kenya,2010,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",31.7,41598567.0,1340.16467408856,60.649,35.422
+Kenya,2011,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",30.1,42758461.0,1370.58000874482,61.046,34.24
+Mexico,2000,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",20.3,98625552.0,9581.96970210753,73.569,24.158
+Mexico,2001,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",19.6,100099099.0,9398.35074355724,73.867,23.717
+Mexico,2002,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",18.9,101548624.0,9242.27886130016,74.106,23.256
+Mexico,2003,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",18.1,102978515.0,9221.99666693097,74.274,22.802
+Mexico,2004,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",17.5,104394131.0,9421.28975988024,74.372,22.351
+Mexico,2005,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",16.9,105811504.0,9491.51730225718,74.376,21.9
+Mexico,2006,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",16.4,107253666.0,9813.8280424425,74.331,21.459
+Mexico,2007,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",15.9,108774360.0,9877.69532644737,74.238,21.082
+Mexico,2008,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",15.4,110374288.0,9826.3421836048,74.152,20.749
+Mexico,2009,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",14.9,111999721.0,9074.1188145564,74.119,20.442
+Mexico,2010,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",14.3,113623895.0,9389.06722084275,74.19,20.152
+Mexico,2011,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",13.8,115243504.0,9575.93437788582,74.365,19.917
+Mexico,2012,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",13.3,116818208.0,9782.51776305354,74.574,19.635
+Mexico,2013,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",13.0,118343573.0,9738.71059803658,74.739,19.326
+Mexico,2014,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",12.8,119784261.0,9862.48125444199,74.797,18.711
+Mexico,2015,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",12.8,121072306.0,10021.2386118827,74.682,17.968
+Mexico,2016,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",12.8,122251351.0,10100.5021214015,74.412,17.42
+Mexico,2017,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",12.8,123400057.0,10193.7727193457,74.138,16.947
+Mexico,2018,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",12.9,124573711.0,10296.8690937052,74.015,16.465
+Mexico,2019,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",12.8,125762982.0,10159.4448355881,74.202,15.71
+Mexico,2020,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",12.8,126799054.0,9234.64362485294,70.133,15.565
+Mexico,2021,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",12.6,127648148.0,9728.05680032556,70.213,14.857
+Mexico,2022,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",12.6,128613117.0,10011.2545383826,74.832,14.636
+Nigeria,2000,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",41.7,126382494.0,1421.67987952013,47.193,43.5
+Nigeria,2001,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",41.6,129862595.0,1465.45720342309,47.619,43.563
+Nigeria,2002,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",41.4,133471989.0,1644.39518877632,47.928,43.563
+Nigeria,2003,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",41.3,137202644.0,1717.2145111176,48.441,43.408
+Nigeria,2004,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",41.1,141057045.0,1824.80269456773,48.767,43.151
+Nigeria,2005,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",40.9,145017253.0,1889.25175325817,49.297,43.075
+Nigeria,2006,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",40.7,149077334.0,1949.15856804565,49.73,42.884
+Nigeria,2007,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",40.4,153267261.0,2020.83316299454,50.033,42.721
+Nigeria,2008,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",40.0,157595014.0,2098.28339220667,50.225,42.681
+Nigeria,2009,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",39.4,162049464.0,2204.6072560373,50.712,42.419
+Nigeria,2010,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",38.8,166642886.0,2315.46676509662,50.945,42.094
+Pakistan,2000,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",40.4,154879127.0,1049.54229686852,62.102,35.761
+Pakistan,2001,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",41.2,159270907.0,1057.86767778646,62.421,35.342
+Pakistan,2002,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",42.2,163222549.0,1059.04171024589,62.626,34.868
+Pakistan,2003,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",43.1,167110248.0,1090.27523993746,62.843,34.132
+Pakistan,2004,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",44.0,171286000.0,1146.99632842666,63.052,33.513
+Pakistan,2005,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",44.8,175453212.0,1201.23359367214,62.466,32.867
+Pakistan,2006,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",45.5,179682690.0,1243.94142602543,63.731,32.402
+Pakistan,2007,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",45.8,184493231.0,1265.35567539842,63.852,32.589
+Pakistan,2008,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",45.8,189499113.0,1258.05188934452,64.036,32.361
+Pakistan,2009,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",45.6,194376534.0,1269.07432116444,64.14,32.193
+Pakistan,2010,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",45.1,199239047.0,1256.69482201323,64.436,32.109
+Pakistan,2011,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",44.5,203746065.0,1261.83161907857,64.648,31.872
+Pakistan,2012,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",43.8,207667125.0,1275.48806898966,64.782,31.601
+Pakistan,2013,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",43.0,211073978.0,1309.70080446386,65.15,31.181
+Pakistan,2014,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",42.2,214264647.0,1343.30778121043,65.284,30.462
+Pakistan,2015,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",41.4,217290883.0,1380.47020838317,65.697,29.699
+Pakistan,2016,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",40.5,220138869.0,1452.18658269177,65.88,29.306
+South Africa,2000,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",26.6,47159719.0,4700.87555500704,58.47,20.705
+South Africa,2001,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",26.3,47566800.0,4786.482450463,57.261,20.392
+South Africa,2002,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",26.2,48019415.0,4916.81498068625,55.666,20.04
+South Africa,2003,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",26.2,48500348.0,5011.62223150169,54.331,20.473
+South Africa,2004,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",26.2,48991421.0,5187.35683424034,54.043,21.261
+South Africa,2005,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",26.2,49490033.0,5406.07581377638,53.98,21.913
+South Africa,2006,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",26.0,49998277.0,5650.9883176549,54.278,22.455
+South Africa,2007,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",25.5,50528584.0,5891.42069421698,54.992,22.629
+South Africa,2008,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",24.8,51114599.0,6009.71963138635,56.022,24.08
+South Africa,2009,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",24.1,51728516.0,5847.05811084505,57.447,22.664
+South Africa,2010,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",23.4,52344051.0,5953.94506512821,58.899,22.274
+South Africa,2011,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",22.9,52995205.0,6067.12482726885,60.651,22.282
+South Africa,2012,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",22.5,53782567.0,6121.55783860713,61.846,22.353
+South Africa,2013,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",22.4,54678791.0,6170.87670863373,62.533,22.177
+South Africa,2014,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",22.3,55594838.0,6155.00589462516,63.38,22.057
+South Africa,2015,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",22.3,56723537.0,6112.27382485974,63.95,21.3
+South Africa,2016,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",22.4,57259551.0,6095.295060428,64.747,20.25
+South Africa,2017,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",22.4,57635162.0,6125.6920507497,65.402,20.643
+South Africa,2018,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",22.4,58613001.0,6117.2701406047,65.674,21.137
+South Africa,2019,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",22.5,59587885.0,6032.82972598668,66.175,21.276
+South Africa,2020,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",22.6,60562381.0,5569.58483319272,65.252,20.326
+South Africa,2021,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",22.8,61502603.0,5756.19549409213,62.341,19.821
+South Africa,2022,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",22.8,62378410.0,5783.86090401536,61.48,19.31
+United States,2000,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",3.1,282162411.0,48616.25462578,76.6365853658537,14.4
+United States,2001,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",3.0,284968955.0,48597.4246142005,76.8365853658537,14.1
+United States,2002,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.8,287625193.0,48967.3661201159,76.9365853658537,14.0
+United States,2003,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.7,290107933.0,49905.5233074236,77.0365853658537,14.1
+United States,2004,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.7,292805298.0,51348.3473376223,77.4878048780488,14.0
+United States,2005,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.6,295516599.0,52649.5713054684,77.4878048780488,14.0
+United States,2006,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.6,298379912.0,53596.3152372,77.6878048780488,14.3
+United States,2007,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.5,301231207.0,54152.8292651299,77.9878048780488,14.3
+United States,2008,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.5,304093966.0,53703.9628961266,78.0390243902439,14.0
+United States,2009,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.5,306771529.0,51863.6183411923,78.390243902439,13.5
+United States,2010,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.5,309327143.0,52821.4047643404,78.5414634146342,13.0
+United States,2011,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.5,311583481.0,53259.2552138539,78.6414634146341,12.7
+United States,2012,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.5,313877662.0,54080.2286497215,78.7414634146342,12.6
+United States,2013,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.6,316059947.0,54844.2425797154,78.7414634146342,12.4
+United States,2014,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.7,318386329.0,55817.5632471958,78.8414634146341,12.5
+United States,2015,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.8,320738994.0,57040.2082136605,78.690243902439,12.4
+United States,2016,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",2.9,323071755.0,57658.6708825722,78.5390243902439,12.2
+United States,2017,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",3.0,325122128.0,58703.1440780161,78.5390243902439,11.8
+United States,2018,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",3.1,326838199.0,60127.2102762459,78.6390243902439,11.6
+United States,2019,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",3.3,328329953.0,61400.5481543687,78.7878048780488,11.4
+United States,2020,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",3.4,331526933.0,59493.1459820135,76.9804878048781,10.9
+United States,2021,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",3.5,332048977.0,62996.2893837444,76.3292682926829,11.0
+United States,2022,,,"Height-for-age <-2 SD (stunting), Modeled Estimates",3.6,333271411.0,64342.1179383761,77.4341463414634,11.0

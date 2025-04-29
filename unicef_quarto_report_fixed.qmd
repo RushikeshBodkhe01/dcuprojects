@@ -1,0 +1,103 @@
+
+---
+title: "UNICEF Global Health Disparities Report"
+author: Rushikesh Bodkhe
+format:
+  html:
+    embed-resources: true
+    code-fold: true
+    toc: true
+    theme: cosmo
+---
+
+# **Raising Awareness of Global Health Disparities**
+_As a Data Analyst at UNICEF, this report is designed to raise public awareness of persistent inequalities in child nutrition, healthcare access, and socio-economic development._
+
+## **Why This Matters**
+- Millions of children still suffer from malnutrition and limited access to healthcare facilities.
+- Stunting affects cognitive development, economic potential, and life expectancy.
+- This report focuses on **10 major countries** and compares their health and economic indicators using clean UNICEF data.
+
+---
+
+## **Dataset Overview**
+
+We used three datasets:
+- `unicef_metadata.csv` — socio-economic indicators (GDP, birth rate, life expectancy)
+- `unicef_indicator_1.csv` — child stunting under 5 years
+- `unicef_indicator_2.csv` — healthcare facility access indicators
+
+After cleaning and merging, we created a unified dataset with the following key variables:
+- GDP per Capita
+- Life Expectancy
+- Birth Rate
+- Stunting (%)
+- Facility Access (%)
+
+---
+
+## **Visualisation 1: World Map - Healthcare Facility Access**
+
+```{python}
+import pandas as pd
+import geopandas as gpd
+import plotnine as p9
+
+# Load cleaned data
+data = pd.read_csv("cleaned_unicef_data_quarto.csv")
+latest = data.sort_values('Year').groupby('Country').tail(1)
+
+# Correct way: Load Natural Earth world shapefile from URL
+world = gpd.read_file("https://naturalearth.s3.amazonaws.com/110m_cultural/ne_110m_admin_0_countries.zip")
+
+# Merge on ADMIN instead of name
+merged = world.merge(latest, how="left", left_on="ADMIN", right_on="Country")
+
+# Plot
+(merged.dropna(subset=["Facility_Value"])
+ .plot(column='Facility_Value', cmap='Oranges', legend=True, edgecolor='black', figsize=(12,6)))
+```
+
+---
+
+## **Visualisation 2: Bar Chart - Birth Rate Comparison**
+
+```{python}
+(p9.ggplot(latest, p9.aes(x="Country", y="Birth_Rate")) +
+ p9.geom_bar(stat="identity", fill="#0073C2FF") +
+ p9.coord_flip() +
+ p9.theme_minimal() +
+ p9.ggtitle("Birth Rate per 1,000 People (Latest Year)"))
+```
+
+---
+
+## **Visualisation 3: Scatter Plot - GDP vs Life Expectancy**
+
+```{python}
+(p9.ggplot(latest, p9.aes(x="GDP_per_Capita", y="Life_Expectancy", label="Country")) +
+ p9.geom_point(size=3) +
+ p9.geom_smooth(method="lm", se=False, color="blue") +
+ p9.theme_minimal() +
+ p9.ggtitle("GDP per Capita vs Life Expectancy"))
+```
+
+---
+
+## **Visualisation 4: Time-Series - Stunting Trends Over Time**
+
+```{python}
+(p9.ggplot(data.dropna(subset=["Stunting_Value"]), p9.aes(x="Year", y="Stunting_Value", color="Country")) +
+ p9.geom_line() +
+ p9.theme_minimal() +
+ p9.ggtitle("Stunting Rate Over Time (Children Under 5)"))
+```
+
+---
+
+## **Conclusion**
+
+This analysis emphasizes:
+- Countries with higher GDP often enjoy better health outcomes.
+- Despite progress, stunting and limited healthcare access remain challenges, especially in low-income regions.
+- International attention and targeted interventions are needed to bridge these gaps and achieve UNICEF’s sustainable development goals.
